@@ -1,0 +1,15 @@
+Diamond Price Prediction (Regression Analysis)
+
+Description:
+   * Similar to house price prediction, this project aims to predict the price of a diamond based on its characteristics (e.g., carat, cut, color, clarity).
+   * It often involves dealing with categorical variables and handling skewed distributions.
+   * This dataset is very popular, and allows for the implementation of many different regression models.
+
+Key Skills Demonstrated:
+   * Handling categorical data (one-hot encoding, label encoding).
+   * Feature scaling and normalization.
+   * Regression modeling and evaluation.
+   * Outlier detection and handling.
+Significance:
+   * Reinforces regression skills with a different dataset.
+   * Exposure to handling categorical features.
