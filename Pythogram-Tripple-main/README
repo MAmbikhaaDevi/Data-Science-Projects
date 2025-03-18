@@ -1,0 +1,12 @@
+Pythagorean Triple Detection (Pythagorean Theorem Implementation)
+
+Description:
+ * This project usually involves writing a Python program to determine if three given numbers form a Pythagorean triple (a, b, c) where a^2 + b^2 = c^2.
+ * It's a foundational exercise that reinforces basic programming logic, conditional statements, and mathematical operations in Python.
+ * It is a good way to get comfortable with user input or reading data from small files.
+
+Key Skills Demonstrated:
+ * Python programming fundamentals.
+ * Mathematical operations.
+ * Conditional logic (if/else statements).
+ * Basic function creation.
