@@ -24,4 +24,5 @@ Key Components of a Data Science Course:
   * Model Building and Evaluation: Developing and evaluating machine learning models to solve specific problems.
   * Data Visualization and Reporting: Creating visualizations and reports to communicate findings effectively.
 
+I Have Successfully Completed Data Science Cource.
 ![1721405476789](https://github.com/user-attachments/assets/c1f084ba-96ef-445e-aa86-95a972957282)
